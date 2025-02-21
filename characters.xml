@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE marvelRivals SYSTEM "characters.dtd">
+
+<marvelRivals>
+    <character>
+        <name>Steve Rogers</name>
+        <alias>Captain America</alias>
+        <team>Avengers</team>
+        <role>Tank</role>
+        <abilities>
+            <ability>
+                <abilityName>Shield Throw</abilityName>
+                <description>Throws shield to damage and stun enemies.</description>
+            </ability>
+            <ability>
+                <abilityName>Super Soldier Charge</abilityName>
+                <description>Rushes forward, knocking enemies back.</description>
+            </ability>
+        </abilities>
+    </character>
+    <character>
+        <name>Tony Stark</name>
+        <alias>Iron Man</alias>
+        <team>Avengers</team>
+        <role>Damage</role>
+        <abilities>
+            <ability>
+                <abilityName>Repulsor Blast</abilityName>
+                <description>Fires an energy blast from his palm.</description>
+            </ability>
+             <ability>
+                <abilityName>Unibeam</abilityName>
+                <description>Releases a powerful beam from his chest reactor.</description>
+            </ability>
+        </abilities>
+    </character>
+</marvelRivals>

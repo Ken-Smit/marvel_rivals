@@ -1,0 +1,10 @@
+<!ELEMENT marvelRivals (character+)>
+<!ELEMENT character (name, alias, team, role, abilities)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT alias (#PCDATA)>
+<!ELEMENT team (#PCDATA)>
+<!ELEMENT role (#PCDATA)>
+<!ELEMENT abilities (ability+)>
+<!ELEMENT ability (abilityName, description)>
+<!ELEMENT abilityName (#PCDATA)>
+<!ELEMENT description (#PCDATA)>

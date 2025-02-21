@@ -1,0 +1,32 @@
+marvelRivals {
+    display: block;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+character {
+    display: block;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #d9534f;
+    display: block;
+}
+
+alias, team, role, abilities {
+    display: block;
+    margin-left: 10px;
+}
+
+ability {
+    display: block;
+    margin-left: 20px;
+}
